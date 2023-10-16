@@ -56,5 +56,5 @@ Make sure to calculate the column width as shown in the code for accurate sizing
 
 ## Codepen
 
-[https://codepen.io/gianniszisakis/pen/xxmobvz]
+https://codepen.io/gianniszisakis/pen/xxmobvz
 
